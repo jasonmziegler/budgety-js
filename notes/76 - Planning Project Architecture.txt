@@ -1,0 +1,41 @@
+Budget App
+
+What should it do?
+
+Input an income description and value
+
+click button to add to income list
+
+1. Add event handler
+2. Get data out of input
+3. Add input to internal data structure.
+4. Update the user interface
+5. update the totals
+
+Modules
+
+Break up code into logical parts 
+parts interact
+
+How should we break up the parts?
+
+Some tasks are interface
+
+some tasks are data manipulation
+
+
+View Module
+- get input values
+- add the new item to UI
+- Update the UI
+
+Model Module
+- Add the new item to our data structure
+- calculate budget
+
+Controller module
+- add event handler
+
+
+
+
